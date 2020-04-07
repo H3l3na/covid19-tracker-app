@@ -1,0 +1,41 @@
+body {
+    /*background-color: lightblue;*/
+    background-image: url('./images/worldmap.png');
+}
+
+.heading {
+    color:black;
+    /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
+    font-family: Helvetica;
+    text-align: center;
+    
+}
+
+.heading img {
+    height:45px;
+}
+
+.App img {
+    margin-left: 0px;
+}
+
+.App-header h1 {
+    margin-top: 0px;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.App-header img {
+    height: 35px;
+    margin-top: 0px;
+    width:40px;
+    padding-top:0px;
+}
+
+.formControl{
+    width: 30%;
+    margin-bottom: 30px !important;
+    
+}
+

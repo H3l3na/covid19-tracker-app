@@ -1,0 +1,7 @@
+.lineChart {
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
